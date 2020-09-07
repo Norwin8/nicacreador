@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'Montserrat';
+	src: url('montserrat-italic.eot');
+	src: url('montserrat-italic.eot?#iefix') format('embedded-opentype'),
+	url('montserrat-italic.woff2') format('woff2'),
+	url('montserrat-italic.woff') format('woff'),
+	url('montserrat-italic.svg#montserratitalic') format('svg');
+	font-weight: 400;
+	font-style: italic;
+	font-display: swap;
+}

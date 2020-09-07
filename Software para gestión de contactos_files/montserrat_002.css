@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'Montserrat';
+	src: url('montserrat-thin.eot');
+	src: url('montserrat-thin.eot?#iefix') format('embedded-opentype'),
+	url('montserrat-thin.woff2') format('woff2'),
+	url('montserrat-thin.woff') format('woff'),
+	url('montserrat-thin.svg#montserratthin') format('svg');
+	font-weight: 100;
+	font-style: normal;
+	font-display: swap;
+}

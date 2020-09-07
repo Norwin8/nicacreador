@@ -1,0 +1,21 @@
+.bx-section-social-share .bx-section-social-share-list {
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+  margin-bottom: 15px; }
+
+.bx-section-social-share .bx-section-social-share-list-item {
+  margin: 0 5px; }
+
+.bx-section-social-share .bx-section-social-share-list-item-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 35px;
+  height: 35px;
+  border: 1px solid #0066a1;
+  border-radius: 100%;
+  color: #0066a1;
+  font-size: 18px;
+  line-height: 18px;
+  cursor: pointer; }
